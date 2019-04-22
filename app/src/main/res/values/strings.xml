@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error">not able to fetch data !!</string>
+    <string name="errormsg">not able to fetch data !!</string>
+    <string name="map_ready">Map is ready !!</string>
+    <string name="location">Location</string>
+    <string name="unableCurrentLoc">unable to get current location</string>
+    <string name="errorMessage">getDeviceLocation: security exception</string>
+</resources>
